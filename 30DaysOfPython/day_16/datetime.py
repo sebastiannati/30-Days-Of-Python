@@ -26,4 +26,4 @@ now = datetime.now()
 
 print(f"5.\t Time from 1970 and now : {now.timestamp()}")
 
-print(f"6.\t I can use datetime module to normalize dates by months in my project JobMarket Intelligence")
+print("6.\t I can use datetime module to normalize dates by months in my project JobMarket Intelligence")
